@@ -1,0 +1,11 @@
+Emotion Journey: โมบายแอปพลิเคชันสำหรับจดไดอารี และวิเคราะห์อารมณ์ความรู้สึก เพื่อเสริมสร้างสุขภาพใจที่ดี
+EMOTION JOURNEY: MOBILE APPLICATION FOR KEEPING A DIARY AND USING SENTIMENT ANALYSIS TO INCREASE GOOD MENTAL HEALTH.
+
+
+ABSTRACT
+         
+         In recent years, mental health issues—particularly depression among youth and adolescents—have been on the rise, significantly affecting daily life and well-being. This project introduces Emotion Journey, a mobile application designed to support mental health by combining diary writing with emotion analysis. Grounded in psychological concepts and expressive writing, it uses Sentiment Analysis from AI For Thai to classify user entries as positive, negative, or neutral. The results are displayed in a simple, accessible format to help users reflect on and manage their emotions.
+         The application was developed with React Native and JSON, the app includes a calendar view, diary entry interface, emotional history log, and emotion summary dashboard. Testing with users aged 15–23 showed the app is user-friendly, functionally effective, and supportive of emotional awareness. While sentiment analysis showed moderate reliability, user feedback was positive, suggesting the app’s potential to support long-term mental well-being.
+         
+Keywords: Mental Health, Mobile Application, Diary, Sentiment Analysis, AI For Thai
+
